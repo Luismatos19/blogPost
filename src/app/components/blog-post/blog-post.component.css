@@ -1,0 +1,23 @@
+article {
+  border-radius: 15px;
+}
+article h2 {
+  margin: 1rem auto;
+  padding: 1rem;
+  background: #966fd6;
+  font-family: Helvetica;
+}
+article img {
+  max-width: 100%;
+  padding: 1rem;
+  margin: 3px;
+
+  border-radius: 15px;
+}
+article p {
+  margin: 1rem auto;
+  font-family: Helvetica;
+}
+article button {
+  margin: 1rem auto;
+}

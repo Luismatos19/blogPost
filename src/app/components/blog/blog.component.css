@@ -1,0 +1,17 @@
+.form {
+  background: white;
+  padding-top: 1rem;
+  padding-bottom: 5rem;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  margin: 0.5rem auto;
+  width: 40%;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
